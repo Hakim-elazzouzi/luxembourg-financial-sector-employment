@@ -10,12 +10,12 @@ end-to-end with SQL and Power BI, on real STATEC open data - not a tutorial data
 ## Key Findings
 
 - Financial-sector headcount grew **+113% since 1999**, reaching **51K in 2025**.
-- But its *share* of national employment tells a different story: it peaked at
-  **13.3% in 2008**, then declined to **10.4% by 2025** - the sector kept growing,
-  the rest of the economy simply grew faster.
 - **Financial sector professionals (PSF)** is the standout consistent grower;
   **Credit institutions** still holds the majority share (61.3%) but that share has
   been shrinking for years.
+- But its *share* of national employment tells a different story: it peaked at
+  **13.3% in 2008**, then declined to **10.4% by 2025** - the sector kept growing,
+  the rest of the economy simply grew faster.
 - The sector has become steadily more qualification-heavy: **80.6%** of the
   workforce is now tertiary-educated, and **32.2%** are foreign residents.
 - The sharpest single-year swings cluster around **2008-2009**, matching
