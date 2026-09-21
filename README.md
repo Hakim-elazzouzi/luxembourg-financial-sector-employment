@@ -4,7 +4,9 @@ A data analytics portfolio project: how has employment in Luxembourg's financial
 sector evolved since 1999, and how does it compare to the national economy? Built
 end-to-end with SQL and Power BI, on real STATEC open data - not a tutorial dataset.
 
-![Overview page](screenshots/page1_overview.png)
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/00e44634-2622-44a3-af75-749cfc0ce605" />
+
+
 
 ## Key Findings
 
