@@ -11,8 +11,9 @@ end-to-end with SQL and Power BI, on real STATEC open data - not a tutorial data
 
 - Financial-sector headcount grew **+113% since 1999**, reaching **51K in 2025**.
 - **Financial sector professionals (PSF)** is the standout consistent grower;
-  **Credit institutions** still holds the majority share (61.3%) but that share has
-  been shrinking for years.
+  **Credit institutions** still holds the largest share (51.38% in 2025), though
+  that share has been shrinking for years, down from a much larger majority in
+  earlier decades.
 - But its *share* of national employment tells a different story: it peaked at
   **13.3% in 2008**, then declined to **10.4% by 2025** - the sector kept growing,
   the rest of the economy simply grew faster.
