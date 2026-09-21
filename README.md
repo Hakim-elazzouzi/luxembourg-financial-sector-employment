@@ -71,24 +71,24 @@ Coverage: 1999-2025 (annual); 2010/2014/2018/2022 (education & nationality, publ
 ## Dashboard Walkthrough
 
 ### Page 1 - Overview
-![Overview page](Power BI/screenshots/page1_overview.png)
+![Overview page](<Power BI/screenshots/page1_overview.png>)
 Total headcount trend and the sector's share of national employment side by side -
 together they show growth that outpaced, then underperformed, the national economy
 after the 2008 crisis.
 
 ### Page 2 - Segment Breakdown
-![Segment breakdown page](Power BI/screenshots/page2_segment_breakdown.png)
+![Segment breakdown page](<Power BI/screenshots/page2_segment_breakdown.png>)
 Composition, range, share-over-time, and year-over-year growth by segment.
 The ~400% growth spike is a base-effect artifact (a very small starting headcount),
 not a real hiring event - see Data Notes.
 
 ### Page 3 - Finance vs. National + Demographics
-![Finance vs national and demographics page](Power BI/screenshots/page3_finance_vs_national.png)
+![Finance vs national and demographics page](<Power BI/screenshots/page3_finance_vs_national.png>)
 Dual-axis comparison against national employment, plus education-level and
 nationality mix within the sector over time.
 
 ### Page 4 - Data Notes
-![Data notes page](Power BI/screenshots/page4_data_notes.png)
+![Data notes page](<Power BI/screenshots/page4_data_notes.png>)
 Largest year-over-year swings (table + scatter), filtered to changes of at least
 ±1%. The biggest drops cluster around 2008-2009.
 
