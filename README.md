@@ -131,15 +131,16 @@ luxembourg-financial-sector-employment/
 ├── README.md
 ├── LICENSE
 ├── sql/
-│   ├── financial_sector_employment_LU.sql             # exploration, cleaning, analysis
-│   └── financial_sector_employment_views_powerbi.sql  # views feeding Power BI
-├── powerbi/
-│   └── luxembourg_financial_sector_employment.pbix
-└── screenshots/
-    ├── page1_overview.png
-    ├── page2_segment_breakdown.png
-    ├── page3_finance_vs_national.png
-    └── page4_data_notes.png
+│   ├── financial_sector_employment_LU.sql
+│   └── financial_sector_employment_views_powerbi.sql
+└── Power BI/
+    ├── powerbi/
+    │   └── luxembourg_financial_sector_employment.pbix
+    └── screenshots/
+        ├── page1_overview.png
+        ├── page2_segment_breakdown.png
+        ├── page3_finance_vs_national.png
+        └── page4_data_notes.png
 ```
 
 ---
